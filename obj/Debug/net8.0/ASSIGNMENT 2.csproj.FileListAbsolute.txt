@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\PROECT(C#)\ASSIGNMENT 2\bin\Debug\net8.0\ASSIGNMENT 2.exe
+C:\Users\Dell\Desktop\PROECT(C#)\ASSIGNMENT 2\bin\Debug\net8.0\ASSIGNMENT 2.deps.json
+C:\Users\Dell\Desktop\PROECT(C#)\ASSIGNMENT 2\bin\Debug\net8.0\ASSIGNMENT 2.runtimeconfig.json
+C:\Users\Dell\Desktop\PROECT(C#)\ASSIGNMENT 2\bin\Debug\net8.0\ASSIGNMENT 2.dll
+C:\Users\Dell\Desktop\PROECT(C#)\ASSIGNMENT 2\bin\Debug\net8.0\ASSIGNMENT 2.pdb
+C:\Users\Dell\Desktop\PROECT(C#)\ASSIGNMENT 2\obj\Debug\net8.0\ASSIGNMENT 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\PROECT(C#)\ASSIGNMENT 2\obj\Debug\net8.0\ASSIGNMENT 2.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\PROECT(C#)\ASSIGNMENT 2\obj\Debug\net8.0\ASSIGNMENT 2.AssemblyInfo.cs
+C:\Users\Dell\Desktop\PROECT(C#)\ASSIGNMENT 2\obj\Debug\net8.0\ASSIGNMENT 2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\PROECT(C#)\ASSIGNMENT 2\obj\Debug\net8.0\ASSIGNMENT 2.dll
+C:\Users\Dell\Desktop\PROECT(C#)\ASSIGNMENT 2\obj\Debug\net8.0\refint\ASSIGNMENT 2.dll
+C:\Users\Dell\Desktop\PROECT(C#)\ASSIGNMENT 2\obj\Debug\net8.0\ASSIGNMENT 2.pdb
+C:\Users\Dell\Desktop\PROECT(C#)\ASSIGNMENT 2\obj\Debug\net8.0\ASSIGNMENT 2.genruntimeconfig.cache
+C:\Users\Dell\Desktop\PROECT(C#)\ASSIGNMENT 2\obj\Debug\net8.0\ref\ASSIGNMENT 2.dll
